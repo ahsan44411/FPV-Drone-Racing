@@ -1,4 +1,4 @@
-# FPV-Drone-Racing-using-Unity
+# FPV-Drone-Racing
 We are using a three tier architecture for this project.  
 
 # Objective: 
